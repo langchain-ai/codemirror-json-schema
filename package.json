@@ -1,5 +1,5 @@
 {
-  "name": "@samnoyes/codemirror-json-schema",
+  "name": "@langchain/codemirror-json-schema",
   "license": "MIT",
   "version": "0.7.9",
   "private": false,
